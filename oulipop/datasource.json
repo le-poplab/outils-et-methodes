@@ -1,0 +1,28 @@
+[
+  [
+    "Enfant",
+    "Jeune",
+    "Adolescent",
+    "Etudiant",
+    "Jeune adulte",
+    "Adulte",
+    "Personne agée"
+  ],
+  [
+    "Cours individuel",
+    "Cours collectif",
+    "Atelier participatif",
+    "Conférence",
+    "Barcamp",
+    "Festival"
+  ],
+  [
+    "Bureautique",
+    "Identité nuémrique",
+    "Bricolage",
+    "E-administration",
+    "Code, programmation",
+    "Emploi",
+    "Entreprise"
+  ]
+]

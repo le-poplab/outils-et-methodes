@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 9934 7016" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-31164.1,-5.68434e-13)">
+        <g id="Montants" transform="matrix(1,0,0,1,31164.1,5.68434e-13)">
+            <rect x="0" y="0" width="9933.07" height="7015.75" style="fill:none;"/>
+            <g transform="matrix(1,0,0,1,-31164.1,-13.211)">
+                <path d="M39969.3,1013.39L39910.2,1013.39L39910.2,2785.05L39969.3,2785.05L39969.3,3375.6L32351.1,3375.6L32351.1,2785.05L32292.1,2785.05L32292.1,1013.39L32351.1,1013.39L32351.1,422.844L39969.3,422.844L39969.3,1013.39ZM37075.6,540.945L34713.4,540.945L34713.4,600L37075.6,600L37075.6,540.945Z" style="fill:rgb(236,236,236);stroke:black;stroke-width:2.1px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-31164.1,3230.52)">
+                <path d="M39969.3,1013.39L39910.2,1013.39L39910.2,2785.05L39969.3,2785.05L39969.3,3375.6L32351.1,3375.6L32351.1,2785.05L32292.1,2785.05L32292.1,1013.39L32351.1,1013.39L32351.1,422.844L39969.3,422.844L39969.3,1013.39ZM37075.6,540.945L34713.4,540.945L34713.4,600L37075.6,600L37075.6,540.945Z" style="fill:rgb(236,236,236);stroke:black;stroke-width:2.1px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,103.835,-869.626)">
+                <text x="3948.93px" y="3264.09px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:1420.63px;">D1</text>
+            </g>
+            <g transform="matrix(1,0,0,1,103.835,2312.29)">
+                <text x="3948.93px" y="3264.09px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:1420.63px;">D2</text>
+            </g>
+        </g>
+    </g>
+</svg>

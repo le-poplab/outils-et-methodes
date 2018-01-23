@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 9934 7016" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-10409.4,-1.13687e-13)">
+        <g id="Fond" transform="matrix(1,0,0,1,10409.4,1.13687e-13)">
+            <rect x="0" y="0" width="9933.07" height="7015.75" style="fill:none;"/>
+            <g transform="matrix(1,0,0,1,-10409.4,-1.13687e-13)">
+                <path d="M19102.7,1712.73L19220.8,1712.73L19220.8,4074.93L19102.7,4074.93L19102.7,6378.08L17153.9,6378.08L17153.9,6437.14L13610.6,6437.14L13610.6,6378.08L11661.8,6378.08L11661.8,4074.93L11543.7,4074.93L11543.7,1712.73L11661.8,1712.73L11661.8,531.626L19102.7,531.626L19102.7,1712.73Z" style="fill:rgb(236,236,236);stroke:black;stroke-width:2.1px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,543.835,588.745)">
+                <text x="3948.93px" y="3264.09px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:1420.63px;">B</text>
+            </g>
+        </g>
+    </g>
+</svg>

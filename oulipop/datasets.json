@@ -1,0 +1,14 @@
+[
+  {
+    "key" : "ville-malgache",
+    "name" : "Ville malgache",
+    "description" : "Invente tes propres villes malgaches",
+    "url" : "ville-malgache.json"
+  },
+  {
+    "key" : "song-writer",
+    "name" : "Song Writer",
+    "description" : "Accords et désaccords...",
+    "url" : "song-writer.json"
+  }
+]

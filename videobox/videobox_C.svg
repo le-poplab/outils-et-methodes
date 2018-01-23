@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 9934 7016" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-20746.2,-5.68434e-13)">
+        <g id="Haut" transform="matrix(1,0,0,1,20746.2,5.68434e-13)">
+            <rect x="0" y="0" width="9933.07" height="7015.75" style="fill:none;"/>
+            <g transform="matrix(0.960403,0,0,1.06889,-19837.7,-138.841)">
+                <rect x="21830.1" y="649.236" width="7993.7" height="5524.93" style="fill:rgb(236,236,236);stroke:black;stroke-width:2.06px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,543.835,588.745)">
+                <text x="3948.93px" y="3264.09px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:1420.63px;">C</text>
+            </g>
+            <g transform="matrix(0.65529,0,0,0.574816,-12698.7,782.531)">
+                <rect x="21280.4" y="1659.12" width="90.121" height="1027.38" style="fill:white;stroke:black;stroke-width:3.4px;"/>
+            </g>
+            <g transform="matrix(0.65529,0,0,0.574816,-12698.7,3144.74)">
+                <rect x="21280.4" y="1659.12" width="90.121" height="1027.38" style="fill:white;stroke:black;stroke-width:3.4px;"/>
+            </g>
+            <g transform="matrix(0.65529,0,0,0.574816,-5316.86,782.531)">
+                <rect x="21280.4" y="1659.12" width="90.121" height="1027.38" style="fill:white;stroke:black;stroke-width:3.4px;"/>
+            </g>
+            <g transform="matrix(0.65529,0,0,0.574816,-5316.86,3144.74)">
+                <rect x="21280.4" y="1659.12" width="90.121" height="1027.38" style="fill:white;stroke:black;stroke-width:3.4px;"/>
+            </g>
+            <g transform="matrix(1.00814,0,0,1.00814,-16641.5,-3743.19)">
+                <rect x="21316.4" y="5318.02" width="234.313" height="234.313" style="fill:white;stroke:black;stroke-width:2.08px;"/>
+            </g>
+        </g>
+    </g>
+</svg>
